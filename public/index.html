@@ -1,20 +1,32 @@
 <!DOCTYPE html>
 <!-- saved from url=(0062)https://www.javascripttutorial.net/sample/dom/infinite-scroll/ -->
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>JavaScript Infinite Scroll - Quotes</title>
-    <link rel="stylesheet" href="./style.css">
-</head>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
 
-<body>
-
+  <body>
     <div class="container">
-        <h1>Programming Quotes</h1>
-        <div class="quotes"></div>
-        <div class="loader"></div>
+      <h1>Programming Quotes</h1>
+      <div class="quotes"></div>
+
+      <!-- the empty divs inside the loader are on purpose -->
+      <div class="loader">
+        <div></div>
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+
+    <div id="back-to-top" title="Back to top">
+      <svg viewBox="0 0 24 24">
+        <path d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path>
+      </svg>
     </div>
     <script src="./app.js"></script>
-
-
-</body></html>
+  </body>
+</html>
