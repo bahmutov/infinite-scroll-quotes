@@ -2,5 +2,6 @@
   "fixturesFolder": false,
   "supportFile": false,
   "pluginsFile": false,
+  "viewportHeight": 1300,
   "baseUrl": "http://localhost:5000"
 }
