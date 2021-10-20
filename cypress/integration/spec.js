@@ -1,3 +1,5 @@
 /// <reference types="cypress" />
 
-it('works', () => {})
+it('fetches items on scroll', () => {
+  cy.visit('/')
+})
