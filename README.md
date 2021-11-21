@@ -1,4 +1,4 @@
-# infinite-scroll-quotes
+# infinite-scroll-quotes [![renovate-app badge][renovate-badge]][renovate-app] ![cypress version](https://img.shields.io/badge/cypress-8.6.0-brightgreen) ![cypress-recurse version](https://img.shields.io/badge/cypress--recurse-1.9.0-brightgreen)
 > Example testing the infinite scroll using Cypress
 
 ## Infinite scroll tests
@@ -21,3 +21,6 @@ $ npm run dev
 Start the application and opens Cypress. Click on the spec `spec.js` to run all tests
 
 The example page copied from [JavaScript Infinite Scroll](https://www.javascripttutorial.net/javascript-dom/javascript-infinite-scroll/)
+
+[renovate-badge]: https://img.shields.io/badge/renovate-app-blue.svg
+[renovate-app]: https://renovateapp.com/
