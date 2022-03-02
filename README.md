@@ -1,4 +1,4 @@
-# infinite-scroll-quotes [![renovate-app badge][renovate-badge]][renovate-app] ![cypress version](https://img.shields.io/badge/cypress-9.5.1-brightgreen) ![cypress-recurse version](https://img.shields.io/badge/cypress--recurse-1.13.1-brightgreen) [![ci](https://github.com/bahmutov/infinite-scroll-quotes/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/bahmutov/infinite-scroll-quotes/actions/workflows/ci.yml)
+# infinite-scroll-quotes [![renovate-app badge][renovate-badge]][renovate-app] ![cypress version](https://img.shields.io/badge/cypress-9.5.1-brightgreen) ![cypress-recurse version](https://img.shields.io/badge/cypress--recurse-1.14.1-brightgreen) [![ci](https://github.com/bahmutov/infinite-scroll-quotes/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/bahmutov/infinite-scroll-quotes/actions/workflows/ci.yml)
 > Example testing the infinite scroll using Cypress
 
 ## Infinite scroll tests
